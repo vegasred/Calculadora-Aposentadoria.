@@ -1,7 +1,7 @@
-const nome = "Cirley"
-const sexo = "F"
-const idade = 47
-const contri = 40
+const nome = "Lucas"
+const sexo = "M"
+const idade = 20
+const contri = 3
 const tempo = (idade+contri)
 if(sexo === "M"){
     if(tempo>=95){
